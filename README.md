@@ -1,3 +1,3 @@
 # ex-python
 
-Run as 'python3 main.py'
+Run as `python3 main.py`
