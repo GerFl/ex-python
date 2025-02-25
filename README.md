@@ -4,4 +4,4 @@ Agregar los archivos CSV dentro de una carpeta llamada files en root del proyect
 
 Run as `python3 main.py`
 
-[Mayormente pseudo]
+*Mayormente pseudocódigo*
