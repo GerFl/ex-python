@@ -10,7 +10,7 @@ FROM (
         mda.hora,
         mda.pml
     FROM MemSch.MemTraMDADet mda
-    WHERE mtr.claNodo = "01ANS-85"
+    WHERE mda.claNodo = "01ANS-85"
 
     UNION ALL
 
